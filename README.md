@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Ivan Nekrashevich<br>🎓 I'm studying at the Belarusian State University of Informatics and Radioelectronics<br>👀 I’m interested in Java Development<br>🌱 I’m currently learning Sping Framework<br><br>
 
 
